@@ -1,0 +1,22 @@
+{
+  "name": "JGV Inmobiliaria",
+  "short_name": "JGV",
+  "description": "Inversiones inmobiliarias en República Dominicana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F2B4D",
+  "theme_color": "#0F2B4D",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/1t4jCn0Q/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/jvT8zXm.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
